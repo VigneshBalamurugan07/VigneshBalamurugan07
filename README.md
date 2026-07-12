@@ -1,7 +1,7 @@
 # Hi there, I'm Vignesh Balamurugan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=76B900&width=600&lines=AI+Engineer+%26+Data+Scientist;Forward+Deployed+AI+Engineer;Specializing+in+GenAI+%26+LLMs;Building+Autonomous+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=76B900&width=600&lines=AI+Engineer+%26+Data+Scientist;Forward+Deployed+AI+Engineer;Specializing+in+GenAI+%26+LLMs;Building+Autonomous+AI+Agents;NLP+%26+Deep+Learning+Expert" alt="Typing SVG" />
 </p>
 
 ---
